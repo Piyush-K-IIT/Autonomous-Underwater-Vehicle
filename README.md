@@ -1,1 +1,3 @@
 # Autonomous-Underwater-Vehicle
+
+The software for this AUV project was developed using C++ and Python within the ROS (Robot Operating System) framework. It follows a modular architecture with separate nodes for sensor data processing, PID-based control, navigation, and actuator handling. I implemented real-time control algorithms, managed inter-node communication using ROS topics and services, and ensured system reliability through structured error handling and safety checks. The codebase is designed with clean, maintainable practices, making it easy to test, debug, and extend. This project demonstrates my ability to develop efficient and scalable software systems for real-time robotics applications.
